@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333540706459",
+    "project_id": "cabapp-7a157",
+    "storage_bucket": "cabapp-7a157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333540706459:android:315e3c57263ac747bd1e3e",
+        "android_client_info": {
+          "package_name": "com.example.drivercabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333540706459-tafsvu4ddj30hdpd4esmkk39t9i313ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drivercabapp",
+            "certificate_hash": "7892f2b76abbdfbe3a53dcebc629763753bfae55"
+          }
+        },
+        {
+          "client_id": "333540706459-k6gedu78b26dlvive95vriv3mgms9rt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheXZMBFqztpvsFG8pSFZ8XxctRmawSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333540706459-k6gedu78b26dlvive95vriv3mgms9rt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
